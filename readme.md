@@ -1,6 +1,6 @@
-Bufto Quotes Api
+Simple Quotes Api
 ====================
-Simple app to generate random Bufto quotes using Python and Flask
+Simple app to generate random quotes using Python and Flask.
 
 # Running locally
 With Python and Pip installed, install the dependencies with:
@@ -17,4 +17,4 @@ python3 app.py
 Forked from [naruto-quotes-server](https://github.com/celso-henrique/naruto-quotes-server) made by [Celso Henrique](https://github.com/celso-henrique) (ty, Celso!)
 
 # License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/volinha/simple-quotes-server/blob/5259cc75f292220271579011d22c3bbdc1e909ac/LICENSE) file for details
