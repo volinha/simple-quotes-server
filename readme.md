@@ -1,6 +1,6 @@
-Naruto Quotes Api
+Bufto Quotes Api
 ====================
-Simple app to generate random Naruto quotes using Python and Flask
+Simple app to generate random Bufto quotes using Python and Flask
 
 # Running locally
 With Python and Pip installed, install the dependencies with:
@@ -13,6 +13,8 @@ and finally run:
 python3 app.py
 
 ```
+
+Forked from [naruto-quotes-server](https://github.com/celso-henrique/naruto-quotes-server) made by [Celso Henrique](https://github.com/celso-henrique) (ty, Celso!)
 
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
